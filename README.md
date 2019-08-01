@@ -4,9 +4,12 @@ There are so many papers on the subject these days that it can be hard to keep t
 
 ### Shorthands
 
-*OA* : overall accuracy
+*OA* : overall 
+
 *mAcc* : mean interclass accuracy
+
 *mIoU* : mean interclass accuracy
+
 *WS* : workshops
 
 By default algorithms are sorted by decreasing mIoU.
